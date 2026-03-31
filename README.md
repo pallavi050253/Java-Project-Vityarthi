@@ -145,4 +145,4 @@ Library-Management-System/
 
 ## 👨‍💻 Author
 
-**Mitali Gautam**  # Java-Project-Vityarthi
+**Pallavi Joshi**  # Java-Project-Vityarthi
